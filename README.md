@@ -8,7 +8,7 @@ la información se cargará del localStorage.
 
 ### Visitar ejemplo
 
-[Ver demo](https://reduxreduxpersistlocalstoragejfa.netlify.app/)
+[Ver demo](https://reduxreduxpersistlocalstoragejfa.netlify.app/){:target="_blank"}
 
 React version: 16.13.1
 redux version: 7.2.0
