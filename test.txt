@@ -1,0 +1,11 @@
+Cree una app de react que ##MUESTRE## una lista de artículos desde un arreglo json guardado en localstorage,
+cada artículo debe mostrar un título, un contenido, el nombre del usuario que lo creo y la ciudad del mismo. 
+Cuando un cliente visita la página, la aplicación debe ##GENERAR un número random##  que se convierte en el
+id del cliente, este id debe ser guardado en el localstorage si no existe previamente.
+
+bonos:
+-usar redux y redux-persist
+-usar hooks
+-usar bootstrap-react
+
+Nota: puede usar create-react-app.
