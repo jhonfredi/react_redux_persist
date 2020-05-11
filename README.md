@@ -10,4 +10,7 @@ la información se cargará del localStorage.
 
 [Ver demo](https://reduxreduxpersistlocalstoragejfa.netlify.app/)
 
+React version: 16.13.1
+redux version: 7.2.0
+redux-persist: 6.0.0
  
