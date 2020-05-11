@@ -6,7 +6,8 @@ lo guarda en el localStorage, también genera un id aleatorio entre [0,100000]
 y lo guarda en el state, gracias al persist la próxima vez que ingrese a la página
 la información se cargará del localStorage.
 
-# json file
+### Visitar ejemplo
+
 [Ver demo](https://reduxreduxpersistlocalstoragejfa.netlify.app/)
 
  
